@@ -1,5 +1,5 @@
 # WebViewVersionDebug
-Simple Android application that helps you to determine active WebView version and implementation of the device.
+A simple Android application that allows you to determine selected WebView version and implementation.
 
 Works on Android 5.0+.
 
