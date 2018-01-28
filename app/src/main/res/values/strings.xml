@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WebView Version Debug</string>
+    <string name="copy_the_text">Copy the text</string>
+    <string name="share_the_text">Share the text</string>
+    <string name="change_the_implementation">Change the implementation</string>
+</resources>
