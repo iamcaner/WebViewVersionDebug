@@ -1,9 +1,13 @@
 # WebViewVersionDebug
 A simple Android application that allows you to determine selected WebView version and implementation.
 
-Works on Android 5.0+.
+Works on Android 5.0 and above.
 
 ![Screenshot](Screenshot.png "Screenshot")
+
+## License
+
+MIT License
 
 Copyright  (c) 2018 Caner Kamburoglu
 
